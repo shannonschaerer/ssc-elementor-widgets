@@ -1,0 +1,7 @@
+.custom-list li::before {
+    content: "–";
+    line-height: 1;
+    position: absolute;
+    top: 0.08rem;
+    left: 0;
+}
